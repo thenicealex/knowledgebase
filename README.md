@@ -2,4 +2,4 @@
 
 This is my knowledge base.
 
-All articles are written in discussions.
+All articles are written in Discussions.
